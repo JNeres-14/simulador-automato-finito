@@ -46,3 +46,6 @@ abcc;1;1;0.000145
 
 ## Autor
 Trabalho individual realizado como parte da disciplina de Autômatos.
+**Nome:** José Neres de Meira Filho  
+**Curso:** Ciência da Computação – UENP  
+**Data:** Maio de 2025
